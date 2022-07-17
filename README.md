@@ -24,6 +24,6 @@ week4-demon - kinda fail :(
 
 
 
-week5-kay
+week5-key
 
 <img src="https://raw.githubusercontent.com/kodkuce/learning-to-draw/main/2022/week5-key.png" height="512" width="512" >
